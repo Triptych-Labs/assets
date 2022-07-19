@@ -2,51 +2,12 @@
     "name": "Not Bored Apes Gen2",
     "symbol": "NBAG2",
     "description": "The second generation of the NBA, the TRUE art. ",
-    "seller_fee_basis_points": 2000,
-    "image": "https://arweave.net/TuahREW7CuWV_XsWTaEqP0YJTvJJbBf4iUlmBUdN5NE?ext=png",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Pink"
-        },
-        {
-            "trait_type": "Fur",
-            "value": "Black"
-        },
-        {
-            "trait_type": "Clothes",
-            "value": "Bone Necklace"
-        },
-        {
-            "trait_type": "Earring",
-            "value": ""
-        },
-        {
-            "trait_type": "Eyes",
-            "value": "Bloodshot"
-        },
-        {
-            "trait_type": "Mouth",
-            "value": "Bored Unshaven"
-        },
-        {
-            "trait_type": "Hat",
-            "value": "No Trait"
-        }
-    ],
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/Triptych-Labs/assets/main/nbagen2collection.png",
+    "attributes": [],
     "properties": {
-        "creators": [
-            {
-                "address": "r18X1YdRgD99PVFcmJV9Pcyjj8zMY4zL5Kc2jJDSxcE",
-                "share": 100
-            }
-        ],
-        "files": [
-            {
-                "type": "image/png",
-                "uri": "https://arweave.net/TuahREW7CuWV_XsWTaEqP0YJTvJJbBf4iUlmBUdN5NE?ext=png"
-            }
-        ]
+        "creators": [],
+        "files": []
     },
     "collection": {
         "name": "Not Bored Apes Gen2",

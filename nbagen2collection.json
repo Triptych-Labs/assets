@@ -3,11 +3,16 @@
     "symbol": "NBAG2",
     "description": "The second generation of the NBA, the TRUE art. ",
     "seller_fee_basis_points": 0,
-    "image": "https://github.com/Triptych-Labs/assets/raw/main/nbegen2collection.png",
+    "image": "https://github.com/Triptych-Labs/assets/raw/main/nbegen2collection.png?ext=png",
     "attributes": [],
     "properties": {
         "creators": [],
-        "files": []
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://github.com/Triptych-Labs/assets/raw/main/nbegen2collection.png?ext=png"
+            }
+        ]
     },
     "collection": {
         "name": "Not Bored Apes Gen2",

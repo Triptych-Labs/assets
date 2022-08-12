@@ -1,0 +1,18 @@
+{
+  "name": "Terp Coin",
+  "symbol": "TERPS",
+  "description": "Terp Coin",
+  "seller_fee_basis_points": 0,
+  "image": "https://github.com/Triptych-Labs/assets/raw/main/terpscoin.png?ext=png",
+  "attributes": [],
+  "properties": {
+    "creators": [],
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://github.com/Triptych-Labs/assets/raw/main/terpscoin.png?ext=png"
+      }
+    ]
+  },
+  "collection": {}
+}
